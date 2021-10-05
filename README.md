@@ -19,3 +19,5 @@ Began and filled out learning journal, ready for next class.
 Second Session
 
 Began tutorials using youtube playlist
+
+Lost some time due to fire alarm, but completed 1 tutorial, no major issues. Need to remember to check syntax errors before saving and to utilize the Debug.Log more. 
