@@ -21,3 +21,4 @@ Second Session
 Began tutorials using youtube playlist
 
 Lost some time due to fire alarm, but completed 1 tutorial, no major issues. Need to remember to check syntax errors before saving and to utilize the Debug.Log more. 
+https://docs.google.com/spreadsheets/d/1MBGJC8MLwVmJCQBUJY8r3qdFmZM8310zv18aePiah7A/edit?usp=sharing - Learning Log timekeeping Document created
