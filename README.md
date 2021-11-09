@@ -35,4 +35,5 @@ Fourth Session
 
 Continued Using Tutorials
 
-D3ecided to create pause menu tutorial in order to support with future UI endevors and curret 3D projects. Followed tutorial with no isses and now need to understand how to further implement in different styles eg colours, images etc.
+D3ecided to create pause menu tutorial in order to support with future UI endevors and curret 3D projects. Followed tutorial with no isses and now need to understand how to further implement in different styles eg colours, images etc. Possibly spent more time than required setting up and following code
+
